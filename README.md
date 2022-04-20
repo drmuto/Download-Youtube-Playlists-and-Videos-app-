@@ -21,8 +21,8 @@ To Download Click here : https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 
 Caution!!!
 
-You have to change the ciper.py file located in the libs folder of the python ( you have to look for it where you installed your python)
+You have to change the ciper.py file located in the **libs** folder of the python ( you have to look for it where you installed your python)
 
 further instruction are here on this website :  https://stackoverflow.com/questions/70780156/why-is-pytube-throwing-error-when-downloading-youtube-video
 for your reference, i will upload a cipher.py file myself but the thing is the youtube function pattern changes from time to time so you have to do a little effort if my file(cipher.py) does not work for you !! 
-so, what you have to do is first close all the IDEs and then go to the main fodler where you installed python then go to libs folder and search for "cipher.py" replace that file with mine viola you are done!!! close everything and run the program
+so, what you have to do is first close all the IDEs and then go to the main fodler where you installed python then go to **libs** folder and search for "cipher.py" replace that file with mine viola you are done!!! close everything and run the program
