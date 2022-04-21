@@ -19,7 +19,7 @@ To Download Click here : https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 7.To embed subtitles into a video file 
 8.To compress or resize a video/audio file 9.Record a live stream
 
-Caution!!!
+**Caution!!!**
 
 You have to change the ciper.py file located in the **libs** folder of the python ( you have to look for it where you installed your python)
 
