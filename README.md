@@ -1,4 +1,4 @@
-# Youtube video downloader built using Python Completely Free for all to use
+# Youtube video and playlist downloader 
  this repository contains python program files to download Youtube videos and youtube playlists
 
 I built a Python program using the following, these need to be installed for this program to work: 👇
