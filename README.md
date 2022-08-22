@@ -10,14 +10,15 @@ I built a Python program using the following, these need to be installed for thi
 To Download Click here : https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 
 ( You have to unzip the file and install the ffmpeg and add ffmpeg to path using Environment variables ) It can be used to:
-1.Change the format of a video/audio file 
-2.Extract audio from video file 
-3.Merge audio and video streams 
-4.Change the bitrate of a video/audio file 
-5.Create GIF from a video file 
-6.Extract still images from a video file 
-7.To embed subtitles into a video file 
-8.To compress or resize a video/audio file 9.Record a live stream
+1.Change the format of a video/audio file <br>
+2.Extract audio from video file <br>
+3.Merge audio and video streams <br>
+4.Change the bitrate of a video/audio file <br>
+5.Create GIF from a video file <br>
+6.Extract still images from a video file <br>
+7.To embed subtitles into a video file <br>
+8.To compress or resize a video/audio file <br>
+9.Record a live stream <br>
 
 **Caution!!!**
 
