@@ -9,5 +9,5 @@ for video in m.videos:
     #remember pytube only offers 720p as the highest video resolution if you want to download 1080p you have to download audioa and video separately
     
     #this one is for downloading at custom video quality
-    video.streams.filter(resolution="360p").first().download()
+    video.streams.get_highest_resolution().download()
     print('your playlist is being downloaded be patient')  
